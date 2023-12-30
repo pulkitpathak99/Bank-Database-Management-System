@@ -14,10 +14,8 @@ Text Based Output
 OUTPUT
 
 
-Welcome To Wells Fargo Bank Database. This Bank Database provides an easier and less
+Welcome To Wellish Farmgo Bank Database. This Bank Database provides an easier and less
 Cumbersome way for Account Management for all our Customers and Employees
-This program has been Created by Kunal Gupta & Pulkit Pathak of Class XII B
-
 
 
 
@@ -525,5 +523,5 @@ Write A/B/C/D/E for your choice
 Enter your choiceE
 
 
-******Thanks for using Wells Fargo Bank! Have a Nice Day******
+******Thanks for using Wellish Farmgo Bank! Have a Nice Day******
 >>>
