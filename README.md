@@ -11,7 +11,8 @@ iv> make a transaction and get real time account balance
 
 
 Text Based Output
-OUTPUT
+
+# TEXT BASED OUTPUT
 
 
 Welcome To Wellish Farmgo Bank Database. This Bank Database provides an easier and less
