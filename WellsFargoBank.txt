@@ -1,10 +1,8 @@
 ﻿import pymysql
 from datetime import datetime
 
-
 print("Welcome To Wellish Farmgo Bank Database. This Bank Database provides an easier and less")
 print("Cumbersome way for Account Management for all our Customers and Employees")
-
 
 print()
 print()
